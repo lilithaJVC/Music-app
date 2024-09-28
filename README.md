@@ -56,7 +56,7 @@
 
 <ul><strong> Data Structure (Cloud Firestore)</strong>  </ul>
    <ul>-Users Collection: Stores user profile information such as username, email, password.</ul>
-   <ul>-Quizzes Collection**: Stores quiz questions,options, answers, and categories.</ul> 
+   <ul>-Quiz Collection: Stores quiz questions,options, answers, and categories.</ul> 
 
  
 
