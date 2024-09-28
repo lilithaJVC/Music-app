@@ -39,7 +39,7 @@
 
 <ul><li><strong>Technology used</strong> </li></ul>
 <ul>QuizWiz follows a client-server architecture where the Android app (client) communicates with the backend API (server) to fetch quiz data, manage user accounts, and store results. Here’s an overview of the architecture:</ul>
-<ul>Frintend: Android studio application  </ul>
+<ul><strong>Frontend: Android studio application</strong>  </ul>
 <ul>-Built with **Android Studio** using **Java/Kotlin**.</ul>
 <ul>-The app is responsible for providing a user interface to interact with quizzes, showing questions, submitting answers, and displaying performance.</ul>
 <ul>-The app sends and receives data from the backend API using HTTP requests, handled through Retrofit.</ul>
