@@ -6,7 +6,7 @@
 </ul>
 
 <ul>
-  <li><strong style="font-size: 20px;">Functional Requirements:</strong></li>
+  <li><strong style="font-size: 50px;">Functional Requirements:</strong></li>
 </ul>
 
 
