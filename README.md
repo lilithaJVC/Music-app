@@ -13,6 +13,8 @@
 </ul>
 <ul>it allows user to select from 6 different categories, these categories inclide; Animals,Disney,Music,History,Food,TV Shows
 </ul>
+<ul>our quiz templates include: multiple choice and true or fasle 
+</ul>
 
 
 
