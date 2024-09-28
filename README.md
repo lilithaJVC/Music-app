@@ -26,8 +26,8 @@
 </ul>
 
 <ul><li><strong style="font-size: 20px;">Non-Functional Requirements:</strong></li></ul>
-<p>Security: We have implemented Single Sign-On (SSO) and used Firebase for authentication to secure the login process.
-security: we have Used JWT JSON web token for session management, with encrypted data storage and transmission.</p>
+<p>Security: We have implemented Single Sign-On (SSO) and used Firebase for authentication to secure the login process</p>
+<p>security: we have Used JWT JSON web token for session management, with encrypted data storage and transmission.</p>
 <p>Usability: our application Provides an intuitive and user-friendly interface.</p>
 <p>Performance: we have ensured that the app is able Load quiz questions within 3 seconds.</p>
 
