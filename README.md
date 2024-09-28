@@ -40,11 +40,25 @@
 <ul><li><strong>Technology used</strong> </li></ul>
 <ul>QuizWiz follows a client-server architecture where the Android app (client) communicates with the backend API (server) to fetch quiz data, manage user accounts, and store results. Here’s an overview of the architecture:</ul>
 <ul><strong>Frontend: Android studio application</strong>  </ul>
-<ul>-Built with **Android Studio** using **Java/Kotlin**.</ul>
+<ul>-Built with ndroid Studio using Java/Kotlin.</ul>
 <ul>-The app is responsible for providing a user interface to interact with quizzes, showing questions, submitting answers, and displaying performance.</ul>
 <ul>-The app sends and receives data from the backend API using HTTP requests, handled through Retrofit.</ul>
 <ul>- User interactions like registration, login, quiz selection, and quiz submission are facilitated by API requests.</ul>
 
+<ul><strong>Backend: AP.NET Core in Visual Studio</strong>  </ul>
+<ul>-Provides RESTful API endpoints for user registration, login, fetching quizzes.</ul>
+<ul>- Handles user authentication, quiz logic, and secure communication between the app and the database.</ul>
+<ul>-Uses JWT (JSON Web Token) for secure session management, allowing only authenticated users to interact with the quiz system.</ul>
+
+<ul><strong></strong>Database (Cloud Firestore)</strong>  </ul>
+<ul>-Cloud Firestore is the NoSQL database used to store and retrieve user data and  quiz content</ul>
+<ul>-Cloud Firestore is integrated into the backend API, where the server communicates with the database to store and fetch data.</ul>
+
+<ul><strong> Data Structure (Cloud Firestore)</strong>  </ul>
+   <ul>-Users Collection: Stores user profile information such as username, email, password.
+     <ul>-Quizzes Collection**: Stores quiz questions,options, answers, and categories.</ul> 
+
+ 
 
 
 
