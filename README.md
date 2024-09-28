@@ -17,7 +17,7 @@
 <ul>our quiz templates include: multiple choice and true or fasle 
 </ul>
 <ul>we also implemented a app settings for the game </ul>
-</ul> these settings include profile settings , game settings , help and support as well as the about </ul>
+<ul> these settings include profile settings , game settings , help and support as well as the about </ul>
 
 
 
