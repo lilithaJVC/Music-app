@@ -13,8 +13,8 @@
 <p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
 
 <ul>
-  <li>It allows users to select between single-player and multi-player modes.</li>
-  <li>It allows users to select from 6 different categories: Animals, Disney, Music, History, Food, TV Shows.</li>
+  <li>allow users to select between single-player and multi-player modes.</li>
+  <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
   <li>Our quiz templates include: multiple choice and true/false questions.</li>
   <li>Real-time quiz data fetching and submission using an API.</li>
   <li>We also implemented an app settings page.</li>
