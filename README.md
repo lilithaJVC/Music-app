@@ -43,7 +43,7 @@
   <li>These settings include profile settings, game settings, help and support, as well as the "About" section.</li>
   <li>When the user clicks the help and support button, they will be redirected to a page where they can ask questions related to the app and provide feedback on their experience.</li>
   <li>When the user clicks the game settings button, they will be redirected to the game settings page where they can customize their game settings, including turning notifications on or off, toggling music and sound, and switching between light and dark modes.</li>
-  <li>when the user clicks on the about button  they wil be redirected to the about gage and read what this application is and its privacy policy </li>
+  <li>when the user clicks on the about button  they wil be redirected to the about gage and read what this application is and its privacy policy. </li>
 
 ![about](https://github.com/user-attachments/assets/f0e04605-f008-401b-8cea-c404df7470df)
 ![gamesettings](https://github.com/user-attachments/assets/08467562-7a56-4d54-9fd7-cc329068f80c)
