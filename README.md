@@ -13,6 +13,7 @@
 <p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
 
 <ul>
+    
     ![playerselection](https://github.com/user-attachments/assets/0914cc6b-404c-4922-82c1-7e1c9035de86)
 
   <li>allow users to select between single-player and multi-player modes.</li>
