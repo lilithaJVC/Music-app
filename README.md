@@ -19,7 +19,7 @@
 <ul>we also implemented a app settings for the game </ul>
 <ul> these settings include profile settings , game settings , help and support as well as the about </ul>
 <ul>when the user clicks on the help and support button they will be redirected to the help and support page where they can ask any question related to the application and also provide feedback on their experience on using  the application  </ul>
-<ul>e=when the user clicks on the game settings button they will be redirected to the game settings page where they can customise their settngs by either turning  the nitification alerts on or off, they can also turn msic and sound on or off, they also have the ability to turn light mode or dark mode </ul>
+<ul>when the user clicks on the game settings button they will be redirected to the game settings page where they can customise their game settngs by either turning  the notofication  alerts on or off, they can also turn msic and sound on or off, they also have the ability to change the theme to  light mode or dark mode </ul>
 
 
 
