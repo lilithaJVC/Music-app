@@ -5,7 +5,10 @@
 <ul>QuizWiz is a dynamic mobile quiz  application that allows users to play quizzes across various categories. It utilizes an API to store user data, fetch questions, and track user performance in real-time. The app supports both single and group play modes,the group play mode will be later implemented in the final POE. this application provides AI-generated explanations .
 </ul>
 
-<ul><li><strong>Functional Requirements:</strong></li></ul>
+<ul>
+  <li><strong style="font-size: 20px;">Functional Requirements:</strong></li>
+</ul>
+
 
 <ul>The registration and login functionality in QuizWiz is powered by the visual studio API. The API handles user authentication, which allows users to securely create accounts, log in, and access their personalized data.</ul>
 <ul>when users register, they will be prompt to provide their name , email and password then clicking in the signup button 
