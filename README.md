@@ -18,7 +18,12 @@
 
     
   <li>allow users to select between single-player and multi-player modes.</li>
+
+  ![dashboard](https://github.com/user-attachments/assets/77a5b9ab-56a0-45f1-8d4b-0ca29b4299fc)
+
   <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
+
+  
   <li>Our quiz templates include: multiple choice and true/false questions.</li>
   <li>Real-time quiz data fetching and submission using an API.</li>
   <li>We also implemented an app settings page.</li>
