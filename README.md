@@ -55,8 +55,8 @@
 <ul>-Cloud Firestore is integrated into the backend API, where the server communicates with the database to store and fetch data.</ul>
 
 <ul><strong> Data Structure (Cloud Firestore)</strong>  </ul>
-   <ul>-Users Collection: Stores user profile information such as username, email, password.
-     <ul>-Quizzes Collection**: Stores quiz questions,options, answers, and categories.</ul> 
+   <ul>-Users Collection: Stores user profile information such as username, email, password.</ul>
+   <ul>-Quizzes Collection**: Stores quiz questions,options, answers, and categories.</ul> 
 
  
 
