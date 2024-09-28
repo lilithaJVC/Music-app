@@ -7,8 +7,9 @@
 
 <ul><li><strong>Functional Requirements:</strong></li></ul>
 
-<ul>this application allow users to register by providing their name , email and password then clicking in the signup button 
-<ul></ul>once the user is registered they can  login to the application by providing their email and the registered password </ul>
+<ul>The registration and login functionality in QuizWiz is powered by the visual studio API. The API handles user authentication, which allows users to securely create accounts, log in, and access their personalized data.</ul>
+<ul>when users register, they will be prompt to provide their name , email and password then clicking in the signup button 
+<ul></ul>once the user is registered they can login to the application by providing their email and the registered password </ul>
 </ul>
 <ul>it allows users to select bewtween a single player and mutli-player mode 
 </ul>
