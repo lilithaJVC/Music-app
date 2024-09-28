@@ -7,7 +7,8 @@
 
 <ul><li><strong>Functional Requirements:</strong></li></ul>
 
-<ul>this application allow users to register and login to the application
+<ul>this application allow users to register by providing their name , email and password then clicking in the signup button 
+<ul></ul>once the user is registered they can  login to the application by providing their email and the registered password </ul>
 </ul>
 <ul>it allows users to select bewtween a single player and mutli-player mode 
 </ul>
@@ -15,6 +16,8 @@
 </ul>
 <ul>our quiz templates include: multiple choice and true or fasle 
 </ul>
+<ul>we also implemented a app settings for the game 
+</ul> these settings include profile settings , game settings , help and support as well as the about 
 
 
 
