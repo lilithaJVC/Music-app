@@ -7,5 +7,12 @@
 
 <ul><li><strong>Functional Requirements:</strong></li></ul>
 
+<ul>this application allow users to register and login to the application
+</ul>
+<ul>it allows users to select bewtween a single player and mutli-player mode 
+</ul>
+<ul>it allows user to select from 6 different categories, these categories inclide; Animals,Disney,Music,History,Food,TV Shows
+</ul>
+
 
 
