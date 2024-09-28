@@ -1,4 +1,5 @@
-![WhatsApp_Image_2024-09-25_at_21 06 40-removebg-preview](https://github.com/user-attachments/assets/f1d6a640-60f3-47d6-8170-53345c14f2af)
+![wiz](https://github.com/user-attachments/assets/ec6a29ea-fcfd-4775-a31d-bc0d6e0fd34a)
+
 
 
 <div style="text-align: center;">
