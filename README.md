@@ -38,7 +38,7 @@
 <ul>Frintend: Android studio application  </ul>
 <ul>-Built with **Android Studio** using **Java/Kotlin**.</ul>
 <ul>-The app is responsible for providing a user interface to interact with quizzes, showing questions, submitting answers, and displaying performance.</ul>
-<ul>-The app sends and receives data from the backend API using HTTP requests, handled through Retrofit or another.</ul>
+<ul>-The app sends and receives data from the backend API using HTTP requests, handled through Retrofit.</ul>
 <ul>- User interactions like registration, login, quiz selection, and quiz submission are facilitated by API requests.</ul>
 
 
