@@ -5,4 +5,7 @@
 <ul>QuizWiz is a dynamic mobile quiz  application that allows users to play quizzes across various categories. It utilizes an API to store user data, fetch questions, and track user performance in real-time. The app supports both single and group play modes,the group play mode will be later implemented in the final POE. this application provides AI-generated explanations .
 </ul>
 
+<ul><li><strong>Functional Requirements:</strong></li></ul>
+
+
 
