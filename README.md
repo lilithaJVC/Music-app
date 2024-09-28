@@ -30,7 +30,7 @@
 <ul>security: we have implemeted SSO and used firebase for authentication to secure the login process  </ul>
 <ul></ul>
 
-<ul><li>Technology used </li></ul>
+<ul><li><strong>Technology used</strong> </li></ul>
 <ul>QuizWiz follows a client-server architecture where the Android app (client) communicates with the backend API (server) to fetch quiz data, manage user accounts, and store results. Here’s an overview of the architecture:</ul>
 <ul>Frintend: Android studio application  </ul>
 <ul>-Built with **Android Studio** using **Java/Kotlin**.</ul>
