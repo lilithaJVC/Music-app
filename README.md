@@ -16,12 +16,18 @@
 </ul>
 <ul>our quiz templates include: multiple choice and true or fasle 
 </ul>
+<ul>Real-time quiz data fetching and submission using API</ul>
 <ul>we also implemented a app settings for the game </ul>
 <ul> these settings include profile settings , game settings , help and support as well as the about </ul>
 <ul>when the user clicks on the help and support button they will be redirected to the help and support page where they can ask any question related to the application and also provide feedback on their experience on using  the application  </ul>
 <ul>when the user clicks on the game settings button they will be redirected to the game settings page where they can customise their game settngs by either turning  the notofication  alerts on or off, they can also turn msic and sound on or off, they also have the ability to change the theme to  light mode or dark mode </ul>
 <ul>the game also have a results page where users can go and view their scores on the quizez that they took </ul>
 <ul>we have also intergrated AI/Germini where users can ask the game question then the AI will generate the answers and siplay it to the user</ul>
+
+<ul><li><strong>Non-Functional Requirements:</strong></li></ul>
+
+<ul>security: we have implemeted SSO and used firebase for authentication to secure the login process  </ul>
+<ul></ul>
 
 
 
