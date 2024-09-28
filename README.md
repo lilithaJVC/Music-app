@@ -13,25 +13,34 @@
 <p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
 
 
-![playerselection](https://github.com/user-attachments/assets/0914cc6b-404c-4922-82c1-7e1c9035de86)
+
 
 
     
   <li>allow users to select between single-player and multi-player modes.</li>
+  
+  ![playerselection](https://github.com/user-attachments/assets/0914cc6b-404c-4922-82c1-7e1c9035de86) 
 
-  ![dashboard](https://github.com/user-attachments/assets/77a5b9ab-56a0-45f1-8d4b-0ca29b4299fc)
-
+ 
   <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
 
-  ![trueorfasle](https://github.com/user-attachments/assets/80d7efdf-984d-4e96-b855-b9889664e3f8)
-![multiplechoice](https://github.com/user-attachments/assets/80b83576-d453-417d-b81c-41595b976249)
+   ![dashboard](https://github.com/user-attachments/assets/77a5b9ab-56a0-45f1-8d4b-0ca29b4299fc)
+
+
 
   <li>Our quiz templates include: multiple choice and true/false questions.</li>
+  
+  ![trueorfasle](https://github.com/user-attachments/assets/80d7efdf-984d-4e96-b855-b9889664e3f8)
+![multiplechoice](https://github.com/user-attachments/assets/80b83576-d453-417d-b81c-41595b976249) 
+  
   <li>Real-time quiz data fetching and submission using an API.</li>
   <li>We also implemented an app settings page.</li>
   <li>These settings include profile settings, game settings, help and support, as well as the "About" section.</li>
   <li>When the user clicks the help and support button, they will be redirected to a page where they can ask questions related to the app and provide feedback on their experience.</li>
   <li>When the user clicks the game settings button, they will be redirected to the game settings page where they can customize their game settings, including turning notifications on or off, toggling music and sound, and switching between light and dark modes.</li>
+  <li>when the user clicks on the about button  they wil be redirected to the about gage and read what this application is and its privacy policy </li>
+
+  
   <li>The game also has a results page where users can view their scores on the quizzes they have taken.</li>
   <li>We have integrated AI/Gemini, allowing users to ask questions and receive AI-generated answers displayed in the app.</li>
 </ul>
