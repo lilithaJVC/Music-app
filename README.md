@@ -54,7 +54,7 @@
   <li>The game also has a results page where users can view their scores on the quizzes they have taken.</li>
   <li>We have integrated AI/Gemini, allowing users to ask questions and receive AI-generated answers displayed in the app.</li>
 </ul>
-
+<p> </p>
 <ul><li><strong style="font-size: 20px;">Non-Functional Requirements:</strong></li></ul>
 <p>Security: We have implemented Single Sign-On (SSO) and used Firebase for authentication to secure the login process</p>
 <p>security: we have Used JWT JSON web token for session management, with encrypted data storage and transmission.</p>
