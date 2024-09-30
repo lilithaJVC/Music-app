@@ -64,6 +64,23 @@
 <p>Usability: our application Provides instructions when the quiz loads on how to play the game.</p>
 <p>Performance: we have ensured that the app is able Load quiz questions within 3 seconds.</p>
 
+<ul><li><strong>Usage:</strong></li></ul>
+<p>Upon opening the application you will briefly see a splash screen without apps logo, thereafter you will be taken to our Login page. If you do not already have an account simply click the signup button and you will be redirected to the signup page. Once in the signup page you will be required to enter information such as your name, email address and password. Alternatively, you can select the “Google” button and sign up using your google account. 
+
+If you do already have an account you will remain on the Login and enter your email and password to login or alternatively, you can use the google button to login. 
+
+Once logged in you will be redirected to our colourful Dashboard. This dashboard contains all the possible categories that you can select. Once you select a category you will be taken to the game. 
+
+The game consists of either Multiple Choice or True or False questions. Regardless of your choice you will select the answer and then select the “next” button to proceed to the next question. You will also be told whether your selection is right or wrong.
+
+Once the game is finished, you will be redirected to our Results page. This page will display your score as well as display all the questions you were asked throughout the quiz. If you select a question, you will be taken to a page that uses the AI Gemini to give you an in depth explanation of the question. 
+
+Through the app you will see a menu located at the top of the screen, this menu has several options: 
+•⁠  ⁠About: this will take you to a page that explains a little bit about our app.
+•⁠  ⁠Settings: This will take you to the settings page which contains all the options mentioned in this list. 
+•⁠  ⁠Help Support: This allows users to request help if they are having any issues related to the app or their account. 
+</p>
+
 <ul><li><strong>Technology Used:</strong></li></ul>
 <p>QuizWiz follows a client-server architecture where the Android app (client) communicates with the backend API (server) to fetch quiz data, manage user accounts, and store results. Here’s an overview of the architecture:</p>
 
