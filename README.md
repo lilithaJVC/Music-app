@@ -131,7 +131,7 @@ Throughout the app you will see a menu located at the top of the screen, this me
 <ul><strong>Hosting:</strong></ul>
 <ul>
   <li>we hosted the application on azure .</li>
-  <li>we created an API app on azure platform, the API App is hosted is hosted in the API app on azure </li>
+  <li>we created an API app on azure platform, the API App is hosted in the API app on azure  </li>
      <li>we used the API app link  in the retrofit client  </li>
 </ul>
 
