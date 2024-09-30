@@ -65,6 +65,10 @@
   
   <li>The game also has a results page where users can view their scores on the quizzes they have taken. As well as view all the questions of the quiz they just completed.</li>
   <li>We have integrated AI/Gemini, allowing users to ask questions and receive AI-generated answers displayed in the app.</li>
+  
+  ![results1](https://github.com/user-attachments/assets/c53a47f0-10fe-4857-9f6c-0808211d9996)
+![toolbarMenu1](https://github.com/user-attachments/assets/f661d8a2-3dc0-45ea-a08e-310d388a1bb0)
+
 </ul>
 <p> </p>
 <ul><li><strong style="font-size: 20px;">Non-Functional Requirements:</strong></li></ul>
