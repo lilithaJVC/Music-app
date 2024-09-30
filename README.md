@@ -75,10 +75,13 @@ The game consists of either Multiple Choice or True or False questions. Regardle
 
 Once the game is finished, you will be redirected to our Results page. This page will display your score as well as display all the questions you were asked throughout the quiz. If you select a question, you will be taken to a page that uses the AI Gemini to give you an in depth explanation of the question. 
 
-Through the app you will see a menu located at the top of the screen, this menu has several options: 
+Throughout the app you will see a menu located at the top of the screen, this menu has several options: 
 •⁠  ⁠About: this will take you to a page that explains a little bit about our app.
 •⁠  ⁠Settings: This will take you to the settings page which contains all the options mentioned in this list. 
-•⁠  ⁠Help Support: This allows users to request help if they are having any issues related to the app or their account. 
+•⁠  ⁠Help Support: This allows users to request help if they are having any issues related to the app or their account.
+•⁠  Profile: This section displays your profile data such as name and email (icons to be developed in later release)
+•⁠  Dashboard: This button will simply redirect you back to the dashboard.
+•⁠  Logout: The ability to logout of the app.
 </p>
 
 <ul><li><strong>Technology Used:</strong></li></ul>
