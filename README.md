@@ -55,10 +55,11 @@
   <li>When the user clicks the game settings button, they will be redirected to the game settings page where they can customize their game settings, including turning notifications on or off, toggling music and sound, and switching between light and dark modes.</li>
   <li>when the user clicks on the about button  they wil be redirected to the about gage and read what this application is and its privacy policy. </li>
 
-![about](https://github.com/user-attachments/assets/f0e04605-f008-401b-8cea-c404df7470df)
-![gamesettings](https://github.com/user-attachments/assets/08467562-7a56-4d54-9fd7-cc329068f80c)
-![Help and support](https://github.com/user-attachments/assets/3317ae00-653b-4145-84af-eee09e270f87)
-![settngs1](https://github.com/user-attachments/assets/09ba41e0-4c2b-454f-af96-e99eac491c9e)
+![about1](https://github.com/user-attachments/assets/fa24e4f4-ff3d-4052-b36e-6410d0968076)
+![gamesettings1](https://github.com/user-attachments/assets/967f0e4c-8279-4c51-a6a9-be29a2ce32de)
+![helpandsupport1](https://github.com/user-attachments/assets/addfa89b-7d0d-429f-a2cc-0fa938f40aae)
+![settings1](https://github.com/user-attachments/assets/edbd1a4c-656b-4426-8bcb-1b91508af7ce)
+
 
   
   <li>The game also has a results page where users can view their scores on the quizzes they have taken. As well as view all the questions of the quiz they just completed.</li>
