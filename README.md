@@ -127,3 +127,15 @@ Throughout the app you will see a menu located at the top of the screen, this me
   <li>Users Collection: Stores user profile information such as username, email, password.</li>
   <li>Quiz Collection: Stores quiz questions, options, answers, and categories.</li>
 </ul>
+
+<ul><strong>Hosting:</strong></ul>
+<ul>
+  <li>we hosted the application on azure .</li>
+  <li>we created an API app on azure platform, the API App is hosted is hosted in the API app on azure </li>
+     <li>we used the API app link  in the retrofit client  </li>
+</ul>
+
+<ul><strong>Demostration Vedio:</strong></ul>
+<ul>
+ 
+</ul>
