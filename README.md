@@ -7,12 +7,19 @@
 <ul><li><strong>Description:</strong></li></ul>
 <p>QuizWiz is a dynamic mobile quiz application that allows users to play quizzes across various categories. It utilizes an API to store user data, fetch questions, and track user performance in real-time. The app supports both single and group play modes, with the group play mode being implemented in the final POE. This application provides AI-generated explanations.</p>
 
+<ul><li><strong style="font-size: 20px;">Key Features:</strong></li></ul>
+<p>Feature 1 - Our first key feature of the app is the creation of various categories along with several questions attached to each. We have selected 6 different categories to suit a range of users, each category has up to 10 questions which will be displayed to the user during the quiz. The question types range from Multiple Choice, with three options for each question, to True or False.</p>
+
+<p>Feature 2 - The second feature is our Game Mode. The game mode entails the ability for the user to play our game. Once they select a category the user will be able to play the game by answering the multiple choice questions or the true or false questions. They will be answered with reactive emojis and correct or incorrect prompts.</p>
+
+<p>Feature 2 - Our third feature is a Results page whereby the user is displayed their total along with a list of all the questions they were asked. They then can select a question and will be taken to a different page where the AI Gemini will give them an in-depth explanation of the questions answer.</p>
+
 <ul><li><strong style="font-size: 20px;">Functional Requirements:</strong></li></ul>
 
 
 
 
-<p>The registration and login functionality in QuizWiz is powered by the Visual Studio API. The API handles user authentication, which allows users to securely create accounts, log in, and access their personalized data.</p>
+<p>The registration and login functionality in QuizWiz is powered by Firebase Authentication. Firebase handles user authentication, which allows users to securely create accounts, log in, and access their personalized data.</p>
 
 <p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
 
@@ -20,11 +27,6 @@
 ![Screenshot reg-09-28 130208](https://github.com/user-attachments/assets/af0ac31e-11fd-443e-b9b8-4d748aa1912f)
 ![login](https://github.com/user-attachments/assets/72f30883-b25e-4d16-a42d-107f6b0baa40)
 
-
-    
-  <li>allow users to select between single-player and multi-player modes.</li>
-  
-  ![playerselection](https://github.com/user-attachments/assets/0914cc6b-404c-4922-82c1-7e1c9035de86) 
 
  
   <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
@@ -51,7 +53,7 @@
 ![settngs1](https://github.com/user-attachments/assets/09ba41e0-4c2b-454f-af96-e99eac491c9e)
 
   
-  <li>The game also has a results page where users can view their scores on the quizzes they have taken.</li>
+  <li>The game also has a results page where users can view their scores on the quizzes they have taken. As well as view all the questions of the quiz they just completed.</li>
   <li>We have integrated AI/Gemini, allowing users to ask questions and receive AI-generated answers displayed in the app.</li>
 </ul>
 <p> </p>
