@@ -55,10 +55,11 @@
   <li>When the user clicks the game settings button, they will be redirected to the game settings page where they can customize their game settings, including turning notifications on or off, toggling music and sound, and switching between light and dark modes.</li>
   <li>when the user clicks on the about button  they wil be redirected to the about gage and read what this application is and its privacy policy. </li>
 
-![about1](https://github.com/user-attachments/assets/fa24e4f4-ff3d-4052-b36e-6410d0968076)
-![gamesettings1](https://github.com/user-attachments/assets/967f0e4c-8279-4c51-a6a9-be29a2ce32de)
-![helpandsupport1](https://github.com/user-attachments/assets/addfa89b-7d0d-429f-a2cc-0fa938f40aae)
-![settings1](https://github.com/user-attachments/assets/edbd1a4c-656b-4426-8bcb-1b91508af7ce)
+![about12](https://github.com/user-attachments/assets/823ff8c7-b654-4f24-869b-ae009b5d47cd)
+![gamesettings1](https://github.com/user-attachments/assets/31019095-7c59-48f8-8bec-c01cfeb51098)
+![helpandsupport1](https://github.com/user-attachments/assets/d8cc58cc-20f0-42f6-a229-22aab95dd0ab)
+![settings1](https://github.com/user-attachments/assets/d16e8ba7-2b47-42a4-be08-72ac3b623452)
+
 
 
   
