@@ -130,12 +130,12 @@ Throughout the app you will see a menu located at the top of the screen, this me
 
 <ul><strong>Hosting:</strong></ul>
 <ul>
-  <li>we hosted the application on azure .</li>
-  <li>we created an API app on azure platform, the API App is hosted in the API app on azure  </li>
-     <li>we used the API app link  in the retrofit client  </li>
+  <li>We hosted the application on azure .</li>
+  <li>We created an API App on the azure platform, the API project (Visual Studio) is hosted in the API app on azure  </li>
+     <li>we used the API app link in the retrofit client to connect the client to the API  </li>
 </ul>
 
-<ul><strong>Demostration Vedio:</strong></ul>
+<ul><strong>Demonstration Video:</strong></ul>
 <ul>
  
 </ul>
