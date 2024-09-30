@@ -24,8 +24,8 @@
 <p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
 
 
-![Screenshot reg-09-28 130208](https://github.com/user-attachments/assets/af0ac31e-11fd-443e-b9b8-4d748aa1912f)
-![login](https://github.com/user-attachments/assets/72f30883-b25e-4d16-a42d-107f6b0baa40)
+![login](https://github.com/user-attachments/assets/4be3de70-f5df-4a64-a369-224bbdbf18ad)
+![register](https://github.com/user-attachments/assets/b2bc6148-99de-4fd9-b480-fb4e839c96bc)
 
 
  
