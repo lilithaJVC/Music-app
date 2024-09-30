@@ -44,8 +44,9 @@
 
   <li>Our quiz templates include: multiple choice and true/false questions.</li>
   
-  ![trueorfasle](https://github.com/user-attachments/assets/80d7efdf-984d-4e96-b855-b9889664e3f8)
-![multiplechoice](https://github.com/user-attachments/assets/80b83576-d453-417d-b81c-41595b976249) 
+![trueorfalsetemplate1](https://github.com/user-attachments/assets/feb4bfae-5aae-4f38-82da-6b57ff68c256)
+![mutlichoicetemplate1](https://github.com/user-attachments/assets/ac7bab55-fa77-4698-92c2-5bfea7e92d8e)
+
   
   <li>Real-time quiz data fetching and submission using an API.</li>
   <li>We also implemented an app settings page.</li>
