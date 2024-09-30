@@ -35,7 +35,10 @@
  
   <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
 
-   ![dashboard](https://github.com/user-attachments/assets/77a5b9ab-56a0-45f1-8d4b-0ca29b4299fc)
+ 
+![dasgboard1](https://github.com/user-attachments/assets/baf8c3e9-11d8-4336-b69c-e30f0dce8a58)
+
+
 
 
 
