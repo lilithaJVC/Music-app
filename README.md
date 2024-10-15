@@ -1,27 +1,30 @@
 ![wiz](https://github.com/user-attachments/assets/ec6a29ea-fcfd-4775-a31d-bc0d6e0fd34a)
 
 <div style="text-align: center;">
-    <h1>QuizWiz - A Quiz App with API Integration</h1>
+    <h1>QuizWiz - Municipality WPF applicatiON</h1>
 </div>
 
 <ul><li><strong>Description:</strong></li></ul>
-<p>QuizWiz is a dynamic mobile quiz application that allows users to play quizzes across various categories. It utilizes an API to store user data, fetch questions, and track user performance in real-time. The app supports both single and group play modes, with the group play mode being implemented in the final POE. This application provides AI-generated explanations.</p>
+<p>for this part , municipal application  helps people to be able to view upcoming events as well as the announcements happening around their places or environment. the aim behind this is to make peoples lives easy by enabling them to report their isues over the phone or computers than going to the municipal offices. it saces their time and money for travelling for things that they can just do at home  .</p>
 
 <ul><li><strong style="font-size: 20px;">Key Features:</strong></li></ul>
-<p>Feature 1 - Our first key feature of the app is the creation of various categories along with several questions attached to each. We have selected 6 different categories to suit a range of users, each category has up to 10 questions which will be displayed to the user during the quiz. The question types range from Multiple Choice, with three options for each question, to True or False.</p>
+<p>Feature 1 -for this part the application allow users to view upcoming events and announcements </p>
 
-<p>Feature 2 - The second feature is our Game Mode. The game mode entails the ability for the user to play our game. Once they select a category the user will be able to play the game by answering the multiple choice questions or the true or false questions. They will be answered with reactive emojis and correct or incorrect prompts.</p>
+<p>Feature 2 -it allows users to search for events by date and categories .</p>
 
-<p>Feature 2 - Our third feature is a Results page whereby the user is displayed their total along with a list of all the questions they were asked. They then can select a question and will be taken to a different page where the AI Gemini will give them an in-depth explanation of the questions answer.</p>
+<p>Feature 3 -it allows users to view recommended events based on their search patterns  .</p>
+
+<p>Feature 4 -it allows users to undio adding an event just incase they made a mistake   .</p>
+
 
 <ul><li><strong style="font-size: 20px;">Functional Requirements:</strong></li></ul>
 
 
 
 
-<p>The registration and login functionality in QuizWiz is powered by Firebase Authentication. Firebase handles user authentication, which allows users to securely create accounts, log in, and access their personalized data.</p>
+<p>menu item that shows thungs the users can choose from .</p>
 
-<p>When users register, they are prompted to provide their name, email, and password, then click the signup button. Once the user is registered, they can log in to the application by providing their email and the registered password.</p>
+
 
 
 
@@ -33,7 +36,7 @@
 
 
  
-  <li>allow users to select from 6 different categories from the dashboard: Animals, Disney, Music, History, Food, TV Shows.</li>
+  <li>local events and announcements semimenu </li>
 
  
 ![dasgboard1](https://github.com/user-attachments/assets/baf8c3e9-11d8-4336-b69c-e30f0dce8a58)
