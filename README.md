@@ -63,8 +63,8 @@
 </ul>
 <p> </p>
 <ul><li><strong style="font-size: 20px;">Non-Functional Requirements:</strong></li></ul>
-<p>Usability: our application Provides an intuitive and user-friendly interface.</p>
-<p>Usability: our application Provides instructions on what action to take usibg labels .</p>
+<p>Usability: this application Provides an intuitive and user-friendly interface.</p>
+<p>Usability: this application Provides instructions on what action to take usibg labels .</p>
 <p>Performance: i have ensured that the application is always uo and running .</p>
 
 
