@@ -39,7 +39,8 @@
   <li>local events and announcements semimenu </li>
 
  
-![dasgboard1](https://github.com/user-attachments/assets/baf8c3e9-11d8-4336-b69c-e30f0dce8a58)
+![localeventsandannouncements](https://github.com/user-attachments/assets/66414b3e-19b2-4000-81b6-cfcd1a1520cd)
+
 
 
 
