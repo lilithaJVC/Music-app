@@ -48,8 +48,7 @@
 
   <li>local events , there users can view upcoming events and also add events .</li>
   
-![trueorfalsetemplate1](https://github.com/user-attachments/assets/feb4bfae-5aae-4f38-82da-6b57ff68c256)
-![mutlichoicetemplate1](https://github.com/user-attachments/assets/ac7bab55-fa77-4698-92c2-5bfea7e92d8e)
+![localevents](https://github.com/user-attachments/assets/53d6a8c9-132a-4ebc-8997-bcedd0ad8e60)
 
   
   <li>announcements .</li>
