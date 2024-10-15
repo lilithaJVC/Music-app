@@ -77,7 +77,7 @@
   <li>Built with visual studio using c#</li>
 
 
-<ul><strong>storage: </strong></ul>
+<ul>storage: </ul>
 <ul>
   <li>stored my announcements and events in sorted dictionenries .</li>
   <li>used hashsents to tore unique event categories</li>
@@ -88,7 +88,7 @@
 
 
 
-<ul><strong>Demonstration Video:</strong></ul>
+<ul><strong>Demonstration Video on how to compile the application :</strong></ul>
 <ul>
- 
+ https://youtu.be/3NSLGGiW76Q 
 </ul>
