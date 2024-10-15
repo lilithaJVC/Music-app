@@ -53,10 +53,7 @@
   
   <li>announcements .</li>
   
-![about12](https://github.com/user-attachments/assets/823ff8c7-b654-4f24-869b-ae009b5d47cd)
-![gamesettings1](https://github.com/user-attachments/assets/31019095-7c59-48f8-8bec-c01cfeb51098)
-![helpandsupport1](https://github.com/user-attachments/assets/d8cc58cc-20f0-42f6-a229-22aab95dd0ab)
-![settings1](https://github.com/user-attachments/assets/d16e8ba7-2b47-42a4-be08-72ac3b623452)
+![announcements](https://github.com/user-attachments/assets/eac5170b-34e0-4427-8189-4c39498ce581)
 
 
 
