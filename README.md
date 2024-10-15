@@ -1,4 +1,4 @@
-![wiz](https://github.com/user-attachments/assets/ec6a29ea-fcfd-4775-a31d-bc0d6e0fd34a)
+
 
 <div style="text-align: center;">
     <h1>QuizWiz - Municipality WPF applicatiON</h1>
@@ -22,14 +22,14 @@
 
 
 
-<p>menu item that shows thungs the users can choose from .</p>
+<p>menu  that shows items the users can choose from .</p>
 
 
 
 
 
-![login](https://github.com/user-attachments/assets/13e8e227-e253-4009-9ba4-a349b085c459)
-![register1](https://github.com/user-attachments/assets/6c49e2bc-73f8-4274-9eff-abee873683f6)
+![Homepage](https://github.com/user-attachments/assets/7a7d3560-53a7-4ec8-a06f-3f2aacfb96ba)
+
 
 
 
